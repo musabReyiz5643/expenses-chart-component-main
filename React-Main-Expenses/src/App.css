@@ -7,3 +7,15 @@
   font-family: "DM Sans";
   font-weight: 700;
 }
+
+.attribution {
+  margin-top: 10px;
+  font-size: 1rem;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 3px 10px black;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}

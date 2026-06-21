@@ -3,6 +3,7 @@ import "./App.css";
 
 import Above_part from "./components/main_above_part";
 import Lower_part from "./components/main_lower_part";
+import Footer from "./components/Footer";
 
 function App() {
   const [isMobile, setİsMobile] = useState(false);
@@ -27,6 +28,7 @@ function App() {
         >
           <Above_part />
           <Lower_part />
+          <Footer />
         </div>
       </div>
     </>
